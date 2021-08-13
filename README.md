@@ -22,11 +22,11 @@
 
 
 <a href="https://github.com/xxshubhamxx/xxshubhamxx">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxshubhamxx&show_icons=true&theme=radical" alt="xxshubhamxx" />
+ <img align="center" width="385" src="https://github-readme-stats.vercel.app/api?username=xxshubhamxx&show_icons=true&theme=radical" alt="xxshubhamxx" />
 </a>
 
 <a href="https://github.com/xxshubhamxx/UID-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxshubhamxx&repo=UID-Project&show_icons=true&theme=radical" />
+  <img align="center" width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=xxshubhamxx&repo=UID-Project&show_icons=true&theme=radical" />
 </a>
 
 <p align="center">
