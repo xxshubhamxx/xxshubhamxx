@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Jupyter-Notebook-informational?&style=flat&logo=Jupyter&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?&style=flat&logo=Jupyter&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Database-OracleXE-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) 
