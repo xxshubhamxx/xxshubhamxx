@@ -40,5 +40,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx">
+<img src="https://github-readme-stats.vercel.app/api?username=xxshubhamxx" alt="Github Stats">
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx" alt="Language Stats">
 </p>
