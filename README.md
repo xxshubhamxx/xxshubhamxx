@@ -10,6 +10,7 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
@@ -18,12 +19,12 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?&style=flat&logo=Jupyter&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Editor-Jupyter%20Notebook-informational?&style=flat&logo=Jupyter&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Database-OracleXE-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/CodeHosting-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code%20Hosting-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Deployment-Heroku-information?style=flat&logo=heroku&logoColor=white&color=2bbc8a) 
 
 
