@@ -51,6 +51,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xxshubhamxx&theme=radical" alt="Wakatime stats">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xxshubhamxx&repo=UID-Project)](https://github.com/xxshubhamxx/UID-Project)
+
 <p>
 
