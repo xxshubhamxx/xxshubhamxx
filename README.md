@@ -50,7 +50,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx&show_icons=true&theme=radical" alt="Language Stats">
 </p>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xxshubhamxx&repo=UID-Project)](https://github.com/xxshubhamxx/UID-Project)
-
-
+<p align="center>
+<img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/9ef4a3c7-82bd-4244-abdb-04e26ccc1b54.png" alt="Walkatime stats"
+</p>
