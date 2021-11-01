@@ -46,3 +46,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxshubhamxx&show_icons=true&theme=radical" alt="Github Streak Stats">
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx&show_icons=true&theme=radical" alt="Language Stats">
+</p>
