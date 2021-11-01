@@ -36,10 +36,10 @@
   
 ## Github Stats:
 <br>
-<a href="https://github.com/xxshubhamxx/xxshubhamxx">
+<a style="margin-left:30%;" href="https://github.com/xxshubhamxx/xxshubhamxx">
  <img align="center" width="385" src="https://github-readme-stats.vercel.app/api?username=xxshubhamxx&show_icons=true&theme=radical" alt="xxshubhamxx" />
 </a>
-
+<br>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxshubhamxx" alt="Github Streak Stats">
