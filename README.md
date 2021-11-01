@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx" alt="Language Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx&show_icons=true&theme=radical" alt="Language Stats">
 </p>
