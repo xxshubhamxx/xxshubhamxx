@@ -50,8 +50,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx&show_icons=true&theme=radical" alt="Language Stats">
 </p>
 
-<p align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xxshubhamxx&repo=UID-Project)](https://github.com/xxshubhamxx/UID-Project)
 
-<p>
 
