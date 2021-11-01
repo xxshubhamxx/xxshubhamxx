@@ -51,8 +51,5 @@
 </p>
 
 <p align="center>
-<img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/9ef4a3c7-82bd-4244-abdb-04e26ccc1b54.png" alt="Walkatime stats"
+<img src="" alt=""
 </p>
-
-image:: https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/9ef4a3c7-82bd-4244-abdb-04e26ccc1b54.png
-    :target: https://wakatime.com/
