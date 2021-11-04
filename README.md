@@ -28,9 +28,11 @@
 ![](https://img.shields.io/badge/Deployment-Heroku-information?style=flat&logo=heroku&logoColor=white&color=2bbc8a) 
 
 ## Project(s):
+<p align="center">
 <a href="https://github.com/xxshubhamxx/UID-Project">
   <img align="center" width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=xxshubhamxx&repo=UID-Project&show_icons=true&theme=radical" />
 </a>
+</p>
 
 <br> 
   
