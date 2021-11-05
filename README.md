@@ -52,6 +52,5 @@
 </p>
 
 <p align="center>
-<img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/9f6e10ec-2e32-4f4f-a20f-6e1228d55a37.svg" alt="Wakatime Stats">
-<figure><embed src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/9f6e10ec-2e32-4f4f-a20f-6e1228d55a37.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/55f54585-ee44-4da6-9bb7-76aa0405f5d1.png" /></a>
 </p>
