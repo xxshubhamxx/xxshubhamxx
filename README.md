@@ -55,5 +55,5 @@
 ## WakaTime Stats:
 
 <p align="center>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/a078a5c8-9134-42c3-a8fc-c55c25854e82.png" /></a>
+   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/47745953-0024-4772-be5b-7cc4a37c17e5.png" /></a>
 </p>
