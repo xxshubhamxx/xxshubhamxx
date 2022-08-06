@@ -57,3 +57,8 @@
 <p align="center>
    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/47745953-0024-4772-be5b-7cc4a37c17e5.png" /></a>
 </p>
+
+                                                                                                                                                      
+## StackOverflow Stats:
+
+[![Shubham Garg StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14976810)](https://stackoverflow.com/users/14976810/shubham-garg)
