@@ -51,13 +51,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx&show_icons=true&theme=radical" alt="Language Stats">
 </p>
 
-  
+<!--   
 ## WakaTime Stats:
 
 <p align="center>
    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c11fbee4-8148-41ba-8eae-d3b3f2d76116/47745953-0024-4772-be5b-7cc4a37c17e5.png" /></a>
 </p>
-
+-->
                                                                                                                                                       
 ## StackOverflow Stats:
 
